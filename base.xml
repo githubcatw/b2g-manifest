@@ -8,10 +8,16 @@
   <remote name="aosp" fetch="https://android.googlesource.com/" />
   <remote name="apitrace" fetch="https://github.com/apitrace/" />
   <remote name="b2g" fetch="https://github.com/mozilla-b2g/" />
+  
+  <!-- mirror owned by unknown user, preserved the structure but not all repos -->
   <remote name="caf" fetch="https://gitlab.com/codeaurora-mirror/quic/la/" />
+  <!-- mirror owned by @regalstreak, used for prebuilts -->
+  <remote name="regalcaf" fetch="https://gitlab.com/Codeaurora/" />
+  
   <remote name="linaro" fetch="http://android.git.linaro.org/git-ro/" />
   <remote name="mozilla" fetch="https://github.com/mozilla/" />
   <remote name="catw" fetch="https://github.com/githubcatw/" />
+  <remote name="bee" fetch="https://github.com/beetwogee/" />
 
   <!--
     B2G repositories for all targets
