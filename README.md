@@ -1,3 +1,5 @@
+for information about this project see [the B2G repo](https://github.com/githubcatw/B2G/blob/master/README.md).
+
 #b2g-manifest
 
 Please make sure to test your changes in a personal fork, before merging. It is
