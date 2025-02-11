@@ -18,7 +18,7 @@
   <!-- Stock Android things -->
   <project groups="darwin" remote="regalcaf" name="platform_prebuilts_gcc_darwin-x86_arm_arm-eabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.7"/>
   <project groups="darwin" remote="regalcaf" name="platform_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.7" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.7"/>
-  <project groups="darwin" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" revision="aosp-new/master" remote="caf"/>
+  <project groups="darwin" name="platform_prebuilts_gcc_darwin-x86_arm_arm-linux-androideabi-4.9" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" revision="aosp-new/master" remote="regalcaf"/>
   <project groups="darwin" remote="regalcaf" name="platform_prebuilts_gcc_darwin-x86_host_headers" path="prebuilts/gcc/darwin-x86/host/headers"/>
   <project groups="darwin" remote="regalcaf" name="platform_prebuilts_gcc_darwin-x86_host_i686-apple-darwin-4.2.1" path="prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1"/>
   <project groups="darwin" remote="regalcaf" name="platform_prebuilts_gcc_darwin-x86_x86_i686-linux-android-4.7" path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.7"/>
@@ -27,9 +27,9 @@
   <project groups="linux" remote="regalcaf" name="platform_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6"/>
   <project groups="linux,arm" remote="regalcaf" name="platform_prebuilts_gcc_linux-x86_arm_arm-eabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7"/>
   <project groups="linux,arm" remote="regalcaf" name="platform_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.7" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7"/>
-  <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" revision="aosp-new/master" remote="caf" />
+  <project groups="linux,arm" name="platform_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" revision="aosp-new/master" remote="regalcaf" />
   <project groups="linux,x86" remote="regalcaf" name="platform_prebuilts_gcc_linux-x86_x86_i686-linux-android-4.7" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.7"/>
-  <project groups="linux,x86" name="platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" revision="aosp-new/master" remote="caf" />
+  <project groups="linux,x86" name="platform_prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" revision="aosp-new/master" remote="regalcaf" />
   <project groups="linux,x86" remote="regalcaf" name="platform_prebuilts_python_linux-x86_2.7.5" path="prebuilts/python/linux-x86/2.7.5"/>
   <project name="device/common" path="device/common"/>
   <project name="device/sample" path="device/sample"/>
